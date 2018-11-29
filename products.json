@@ -1,0 +1,92 @@
+[
+  {
+    "title": {
+      "en-GB": "Toyota Landcruiser Colorado/Prado LWB KZJ 95 RHD Leather Seat Upholstery"
+    },
+    "description": {
+      "en-GB": "Seat cover in Bulgarian Leather\nMade to order, custom fitting leather seat covers for all Toyota Landcruiser models"
+    },
+    "sku": {
+      "prefix": "tlc-95-lsc",
+      "separator": "-"
+    },
+    "variations": [
+      {
+        "index": 1,
+        "key": {
+          "en-GB": "Colour",
+          "en-US": "Color"
+        },
+        "values": [
+          {
+            "index": 0,
+            "sku": "be",
+            "en-GB": "Beige"
+          },
+          {
+            "index": 1,
+            "sku": "gr",
+            "en-GB": "Grey"
+          },
+          {
+            "index": 2,
+            "sku": "ch",
+            "en-GB": "Charcoal"
+          }
+        ]
+      },
+      {
+        "index": 0,
+        "key": {
+          "en-GB": "Position"
+        },
+        "values": [
+          {
+            "index": 0,
+            "sku": "fr",
+            "en-GB": "Front Right"
+          },
+          {
+            "index": 1,
+            "sku": "fl",
+            "en-GB": "Front Left"
+          },
+          {
+            "index": 2,
+            "sku": "rr",
+            "en-GB": "Rear Right"
+          },
+          {
+            "index": 3,
+            "sku": "rl",
+            "en-GB": "Rear Left"
+          },
+          {
+            "index": 4,
+            "sku": "mr",
+            "en-GB": "Middle Right"
+          },
+          {
+            "index": 5,
+            "sku": "ml",
+            "en-GB": "Middle Left"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "index": 0,
+        "primary": true,
+        "small": "small/tlc-95-lsc/00.png",
+        "large": "large/tlc-95-lsc/00.png"
+      },
+      {
+        "index": 1,
+        "sku": "tlc-95-lsc-fr-be",
+        "small": "small/tlc-95-lsc/01.png",
+        "large": "large/tlc-95-lsc/01.png"
+      }
+    ]
+  }
+]
